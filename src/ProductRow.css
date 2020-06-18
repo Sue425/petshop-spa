@@ -1,0 +1,19 @@
+.amount-field {
+    width: 8em;
+    padding-right: 1.5em !important;
+    vertical-align: middle !important;
+}
+
+input[type=number] {
+    text-align: right;
+}
+
+.first-and-last-col {
+    width: 30%;
+    text-align: left;
+}
+
+.other-cols {
+    width: 20%;
+    text-align: center !important;
+}

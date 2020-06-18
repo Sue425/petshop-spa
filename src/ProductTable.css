@@ -1,0 +1,18 @@
+.table-header {
+    background: rgb(66, 135, 245);
+}
+
+th {
+    font-weight: bold !important;
+    font-size: 1rem !important;
+}
+
+.first-and-last-col {
+    width: 30%;
+    text-align: left;
+}
+
+.other-cols {
+    width: 20%;
+    text-align: center !important;
+}

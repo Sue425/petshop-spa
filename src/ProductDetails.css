@@ -1,0 +1,30 @@
+.details-container {
+    text-align: left;
+    width: 90%;
+    margin: auto;
+}
+
+ul {
+    margin-top: 0;
+}
+
+.product-info-container {
+    display: inline-block;
+}
+
+.order-product-container {
+    float: right;
+    margin-right: 1.5em;
+}
+
+.price-text {
+    margin-top: 0;
+}
+
+.product-description {
+    margin-top: 2em;
+}
+
+.back-button-container {
+    margin-top: 1.5em;
+}
